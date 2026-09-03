@@ -344,8 +344,8 @@ tag_archive:
 #     - categories
 #     - tags
 #   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
+#     category: archive-taxology
+#     tag: archive-taxology
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
