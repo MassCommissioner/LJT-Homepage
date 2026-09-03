@@ -17,6 +17,21 @@ url                      : https://MassCommissioner.github.io/LJT-Homepage
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MassCommissioner/LJT-Homepage"
 
+# Navigation
+nav:
+  - title: "About"
+    url: "/"
+  - title: "Research Experience"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Skills"
+    url: "/skills/"
+  - title: "Contact"
+    url: "/contact/"
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
