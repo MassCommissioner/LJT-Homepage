@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**Junteng Liu** — Ph.D. candidate in Computer Science, HKUST NLP Group
-
 I am a Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology, advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University in June 2024. My research lies at the intersection of natural language processing and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
 Contact
