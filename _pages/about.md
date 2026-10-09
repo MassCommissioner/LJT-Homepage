@@ -58,15 +58,15 @@ Publications
 ======
 
 * **2025**
-  * [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.baseurl }}/publication/2025-synlogic). *arXiv*. First author.
-  * [On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.baseurl }}/publication/2025-perception-bottleneck-vlms-for-chart-understanding). *arXiv*. First author.
+  * [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.url }}/publication/2025-synlogic). *arXiv*. First author.
+  * [On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.url }}/publication/2025-perception-bottleneck-vlms-for-chart-understanding). *arXiv*. First author.
 
 * **2024**
-  * [On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.baseurl }}/publication/2024-universal-truthfulness-hyperplane-inside-llms). *EMNLP 2024*. First author.
-  * [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.baseurl }}/publication/2024-in-context-sharpness-as-alerts). *ICML 2024*. Co-author.
+  * [On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.url }}/publication/2024-universal-truthfulness-hyperplane-inside-llms). *EMNLP 2024*. First author.
+  * [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.url }}/publication/2024-in-context-sharpness-as-alerts). *ICML 2024*. Co-author.
 
 * **2023**
-  * [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.baseurl }}/publication/2023-ceval-a-multi-level-multi-discipline-chinese-evaluation-suite-for-foundation-models). *NeurIPS 2023*. Co-author.
-  * [Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.baseurl }}/publication/2023-composing-parameter-efficient-modules-with-arithmetic-operations). *NeurIPS 2023*. Co-author.
+  * [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.url }}/publication/2023-ceval-a-multi-level-multi-discipline-chinese-evaluation-suite-for-foundation-models). *NeurIPS 2023*. Co-author.
+  * [Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.url }}/publication/2023-composing-parameter-efficient-modules-with-arithmetic-operations). *NeurIPS 2023*. Co-author.
 
-A fuller list, ordered newest first, is also available on the [Publications]({{ site.baseurl }}/publications/) page.
+A fuller list, ordered newest first, is also available on the [Publications]({{ site.url }}/publications/) page.
